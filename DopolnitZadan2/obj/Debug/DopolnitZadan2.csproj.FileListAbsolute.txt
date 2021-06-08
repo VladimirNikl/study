@@ -1,0 +1,7 @@
+C:\Users\WrsT\source\repos\009_Delegates\Praktic\DopolnitZadan2\bin\Debug\DopolnitZadan2.exe.config
+C:\Users\WrsT\source\repos\009_Delegates\Praktic\DopolnitZadan2\bin\Debug\DopolnitZadan2.exe
+C:\Users\WrsT\source\repos\009_Delegates\Praktic\DopolnitZadan2\bin\Debug\DopolnitZadan2.pdb
+C:\Users\WrsT\source\repos\009_Delegates\Praktic\DopolnitZadan2\obj\Debug\DopolnitZadan2.csprojAssemblyReference.cache
+C:\Users\WrsT\source\repos\009_Delegates\Praktic\DopolnitZadan2\obj\Debug\DopolnitZadan2.csproj.CoreCompileInputs.cache
+C:\Users\WrsT\source\repos\009_Delegates\Praktic\DopolnitZadan2\obj\Debug\DopolnitZadan2.exe
+C:\Users\WrsT\source\repos\009_Delegates\Praktic\DopolnitZadan2\obj\Debug\DopolnitZadan2.pdb

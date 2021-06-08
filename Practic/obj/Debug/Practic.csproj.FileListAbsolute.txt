@@ -1,0 +1,14 @@
+C:\Users\WrsT\source\repos\DopolnitZadan\Practic\bin\Debug\Practic.exe.config
+C:\Users\WrsT\source\repos\DopolnitZadan\Practic\bin\Debug\Practic.exe
+C:\Users\WrsT\source\repos\DopolnitZadan\Practic\bin\Debug\Practic.pdb
+C:\Users\WrsT\source\repos\DopolnitZadan\Practic\obj\Debug\Practic.csprojAssemblyReference.cache
+C:\Users\WrsT\source\repos\DopolnitZadan\Practic\obj\Debug\Practic.csproj.CoreCompileInputs.cache
+C:\Users\WrsT\source\repos\DopolnitZadan\Practic\obj\Debug\Practic.exe
+C:\Users\WrsT\source\repos\DopolnitZadan\Practic\obj\Debug\Practic.pdb
+C:\Users\WrsT\source\repos\009_Delegates\Praktic\Practic\bin\Debug\Practic.exe.config
+C:\Users\WrsT\source\repos\009_Delegates\Praktic\Practic\bin\Debug\Practic.exe
+C:\Users\WrsT\source\repos\009_Delegates\Praktic\Practic\bin\Debug\Practic.pdb
+C:\Users\WrsT\source\repos\009_Delegates\Praktic\Practic\obj\Debug\Practic.csprojAssemblyReference.cache
+C:\Users\WrsT\source\repos\009_Delegates\Praktic\Practic\obj\Debug\Practic.csproj.CoreCompileInputs.cache
+C:\Users\WrsT\source\repos\009_Delegates\Praktic\Practic\obj\Debug\Practic.exe
+C:\Users\WrsT\source\repos\009_Delegates\Praktic\Practic\obj\Debug\Practic.pdb
